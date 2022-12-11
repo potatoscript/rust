@@ -1,4 +1,4 @@
-# Rust Cheat Sheets:
+# Rust Cheat Sheets
 
 | Title           | Remark/code |
 | --------------- | ----------- |
@@ -23,4 +23,4 @@ fn main(){
 - Run it
   `./main`
 
-[home](#Rust-Cheat-Sheets:)
+[home](#Rust-Cheat-Sheets)
